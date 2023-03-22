@@ -1,9 +1,9 @@
 <HEAD>
-<TITLE>Table</TITLE>
+
 </HEAD>
 
-<BODY bgcolor="FFBFA9">
-<center><h1>Food Prefered Kids</h1></center>
+<BODY bgcolor="pink">
+<center><h1>Food Prefered by Kids</h1></center>
 <hr>
 <center><table border = "1"></center>
 <tr>
@@ -14,6 +14,12 @@
 <td rowspan="2">Caterine</td><td>Icecream</td></tr>
 <tr>
 <td>Pizza</td>
+</tr>
+
+<tr>
+<td rowspan="2">Mandy</td><td>Cupcakes</td></tr>
+<tr>
+<td>Pasta</td>
 </tr>
 
 <tr>
